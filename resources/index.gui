@@ -1,0 +1,5 @@
+<svg class="background">
+  <text id="normal_time" />
+  <text id="internet_time" />
+  <text id="date" />
+</svg>

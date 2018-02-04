@@ -1,0 +1,15 @@
+{
+  "fitbit": {
+    "appUUID": "c585da0a-d97c-406c-9b0d-0682b9f726db",
+    "appType": "clockface",
+    "appDisplayName": "Internet Time",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "i18n": {
+      "en": {
+        "name": "Internet Time"
+      }
+    }
+  }
+}
